@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d1f6e,100:00d4ff&height=200&section=header&text=Lucas%20Picard&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Développeur%20Autodidacte%20·%20Logique%20·%20Embarqué&descAlignY=60&descSize=18&descColor=8ab4f8&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d1f6e,100:00d4ff&height=200&section=header&text=Lucas%20Picard&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Etudiant%20BAC%20Pro%20CIEL%20·%20Dev, Algo%20Autodidacte%20·%20Electronique,Réseau et Cyber&descAlignY=60&descSize=18&descColor=8ab4f8&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Apprentissage+continu+🚀;Développement+%26+Résolution+de+problèmes;De+l’électronique+au+code;Futur+étudiant+en+BUT+Informatique+🎓)](https://git.io/typing-svg)
 
