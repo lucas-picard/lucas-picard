@@ -80,7 +80,7 @@ Passionné par l’apprentissage continu, j’aime concevoir, comprendre et exp�
   </tr>
 </table>
 </div>
-xxxxx
+xxxx
 ---
 
 ### 📊 Statistiques & Engagement
