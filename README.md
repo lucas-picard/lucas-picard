@@ -1,4 +1,4 @@
-<div align="center">zdzddz
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d1f6e,100:00d4ff&height=200&section=header&text=Lucas%20Picard&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Etudiant%20BAC%20Pro%20CIEL%20·%20Reseau%20Electronique%20et%20Cyber%20·%20Dev%20Autodidacte&descAlignY=60&descSize=18&descColor=8ab4f8&animation=fadeIn)
 
