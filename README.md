@@ -54,7 +54,7 @@ Passionné par l’apprentissage continu, j’aime concevoir, comprendre et exp�
 
 ---
 
-### 🌌 Passions & Univers Personnel
+###  Passions & Univers Personnel
 
 <div align="center">
 <table>
