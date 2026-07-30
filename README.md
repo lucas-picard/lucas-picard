@@ -13,7 +13,7 @@
 
 ---
 
-### 👋 Qui suis-je ?
+###  Qui suis-je ?
 
 Salut ! Moi, c’est Lucas.
 
