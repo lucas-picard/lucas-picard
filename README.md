@@ -83,7 +83,7 @@ Passionné par l’apprentissage continu, j’aime concevoir, comprendre et exp�
 
 ---
 
-### 📊 Statistiques & Engagement
+###  Statistiques & Engagement
 
 <div align="center">
 
