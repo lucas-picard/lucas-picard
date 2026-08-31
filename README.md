@@ -13,7 +13,7 @@
 
 ---
 
-###  Qui suis-je ?
+###  A propos
 
 Salut ! Moi, c’est Lucas.
 
@@ -23,7 +23,7 @@ Passionné par l’apprentissage continu, j’aime concevoir, comprendre et exp�
 
 ---
 
-### 🛠️ Ma Stack Technique
+### Compétences
 
 <div align="center">
 
@@ -95,7 +95,7 @@ Passionné par l’apprentissage continu, j’aime concevoir, comprendre et exp�
 
 ---
 
-### 📬 Contact Rapide
+### Contact
 
 <div align="center">
 
